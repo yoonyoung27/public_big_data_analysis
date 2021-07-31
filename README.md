@@ -20,7 +20,7 @@ If you want to make multiple links to the same place, it need to be updated once
 [my github code]: https://github.com/yoonyoung27/prac_class.git
 
 ⑤ Enter an exclamation point(!), wrap the alt text in brackets([]), and then wrap the link in parenthesis(()) to create an inline image link
-![tree](Tree.jpeg)  
+![tree](Tree.jpg)  
 If you want to make link to content, it need to be updated link at the bottom of a Markdown document by providing the image name wrapped in brackets, followed by a colon, followed by the link ; [Black cat][Black]  
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
